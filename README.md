@@ -3,14 +3,16 @@ Demo project for automating school processes based on Rest API
 
  # EN:
   Demo project for automating school processes based on Rest API
+  
   Technology stack:
-   Front end: React
-   Back-end: Nest.js
-   Web Server: Nginx
-   DMS: PostgreSQL
-   CRM-ORM: TypeORM
+  - Front end: React
+  - Back-end: Nest.js
+  - Web Server: Nginx
+  - DMS: PostgreSQL
+  - CRM-ORM: TypeORM
 
  The project implements the automation of an average school of 1-3 degrees in the CIS countries.
+ 
  The resource has the following features:
   1. Creating a school
   2. Creation of departments - elements of the intrastructural organization of the school
@@ -30,12 +32,13 @@ Demo project for automating school processes based on Rest API
  
  # RU:
   Демонстрационный проект автоматизации школьных процессов основанный на Rest API
+   
    Technology stack:
-    Front-end:  React
-    Beack-end:  Nest.js
-    Web-Server: Nginx
-    DMS:  	     PostgreSQL
-    CRM-ORM:    TypeORM
+   - Front-end:  React
+   - Beack-end:  Nest.js
+   - Web-Server: Nginx
+   - DMS:  	     PostgreSQL
+   - CRM-ORM:    TypeORM
 
   Проект реализует автоматизацию среднестатестической школы 1-3 степеней стран СНГ.
   Ресурз имеет следуюшие фичи:
